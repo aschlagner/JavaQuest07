@@ -2,6 +2,7 @@
 SEA8 - Quest: Java 07: Inheritance
 
 Challenge: Hanging around!
+
 In order to practice inheritance, you will need to create the following classes:
 
 Create an abstract class Vehicle.
